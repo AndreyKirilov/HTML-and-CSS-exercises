@@ -1,0 +1,54 @@
+<style>
+    p{
+        font-family: Arial;
+        text-align: center;
+        margin-top: 0;
+        margin-bottom: 0;
+        
+    }
+
+    .new-text{
+        color: rgb(245, 99, 0);
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+
+    .laptop-text{
+        color: black;
+        font-size: 24px;
+        margin-bottom: 5px;
+
+    }
+
+    .description-text{
+        color: black;
+        font-size: 45px;
+        margin-bottom: 15px;
+    }
+
+    .price-text{
+        color: rgba(0, 0, 0, 0.785);
+        font-size: 15px;
+        margin-bottom: 25px;
+    }
+
+    .buy-button{
+        background-color: rgb(0, 113, 227);
+        color: white;
+        padding-top: 7px;
+        padding-bottom: 7px;
+        padding-left: 15px;
+        padding-right: 15px;
+        border-radius: 30px;
+        font-weight: bold;
+        cursor: pointer;
+    }
+</style>
+
+
+
+<p class="new-text"><b>New</b></p>
+<p class="laptop-text"><b>MacBook Pro</b></p>
+<p class="description-text"><b>Supercharged for pros.</b></p>
+<p class="price-text">From $1999</p>
+<p><span class="buy-button">Buy</span></p>>
